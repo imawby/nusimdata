@@ -12,7 +12,6 @@
 #include "TGCanvas.h"
 
 #ifndef __CINT__ // root 5
-#ifndef __clang__ // root 6
 #include <string>
 #include <vector>
 
@@ -45,7 +44,6 @@ namespace evdb {
 
   };
 }//namespace
-#endif // __clang__
 #endif // __CINT__
 DECLARE_ART_SERVICE(evdb::ScanOptions, LEGACY)
 #endif

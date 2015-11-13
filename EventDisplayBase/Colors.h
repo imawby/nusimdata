@@ -6,7 +6,6 @@
 #ifndef EVDB_COLORS_H
 #define EVDB_COLORS_H
 #ifndef __CINT__ // root 5
-#ifndef __clang__ // root 6
 #include <vector>
 #include <string>
 
@@ -77,7 +76,6 @@ namespace evdb
     std::map<std::string,ColorScale*> fColorScales;
   };
 }
-#endif // __clang__
 #endif // __CINT__
 DECLARE_ART_SERVICE(evdb::Colors, LEGACY)
 #endif // EVDB_COLORS
