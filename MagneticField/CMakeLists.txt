@@ -1,5 +1,6 @@
 
 simple_plugin( MagneticField service
+                        ${ART_UTILITIES}
                         ${CLHEP}
                         BASENAME_ONLY )
 
