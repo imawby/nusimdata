@@ -24,7 +24,7 @@ genie           v2_8_6e
 geant4          v4_9_6_p04c
 cry             v1_7e
 ifdhc		v1_8_7
-libwda          v2_22_0
+libwda          v2_22_1
 
 cetbuildtools   v4_17_02        -        only_for_build
 end_product_list
