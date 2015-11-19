@@ -14,6 +14,7 @@
 #include "TGButton.h"
 #include "TGTextEntry.h"
 
+#include "art/Framework/Principal/Event.h"
 #include "EventDisplayBase/PrintDialog.h"
 #include "EventDisplayBase/Printable.h"
 #include "EventDisplayBase/EventHolder.h"

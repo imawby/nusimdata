@@ -13,6 +13,7 @@
 #include "TCanvas.h"
 // ART includes framework includes
 #include "art/Framework/IO/Root/RootInput.h"
+#include "art/Framework/Principal/Event.h"
 #include "art/Framework/Services/Registry/ActivityRegistry.h"
 #include "cetlib/exception.h"
 // Local includes

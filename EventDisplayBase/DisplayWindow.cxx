@@ -16,6 +16,7 @@
 #include "TCanvas.h"
 #include "TH1.h"
 
+#include "art/Framework/Principal/Event.h"
 #include "EventDisplayBase/DisplayWindow.h"
 #include "EventDisplayBase/FileMenu.h"
 #include "EventDisplayBase/EditMenu.h"
