@@ -7,7 +7,7 @@
 /// This class stores/retrieves the additional information needed (and not in MCTruth) to recreate a genie::EventRecord
 /// for genie based event reweighting.
 
-#include "SimulationBase/GTruth.h"
+#include "nudata/SimulationBase/GTruth.h"
 
 #include "messagefacility/MessageLogger/MessageLogger.h"
 

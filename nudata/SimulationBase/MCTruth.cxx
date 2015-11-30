@@ -5,9 +5,9 @@
 /// \version $Id: MCTruth.cxx,v 1.8 2012-10-15 20:36:27 brebel Exp $
 /// \author  jpaley@indiana.edu
 ////////////////////////////////////////////////////////////////////////
-#include "SimulationBase/MCTruth.h"
-#include "SimulationBase/MCParticle.h"
-#include "SimulationBase/MCNeutrino.h"
+#include "nudata/SimulationBase/MCTruth.h"
+#include "nudata/SimulationBase/MCParticle.h"
+#include "nudata/SimulationBase/MCNeutrino.h"
 
 #include "messagefacility/MessageLogger/MessageLogger.h"
 
