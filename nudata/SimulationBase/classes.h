@@ -16,8 +16,8 @@
 //    plans to fix it soon.  We can always work around it 
 //    by putting the string inside another object.
 
-#include "art/Persistency/Common/Wrapper.h"
-#include "art/Persistency/Common/Assns.h" 
+#include "artlite/Persistency/Common/Wrapper.h"
+#include "artlite/Persistency/Common/Assns.h" 
 
 // nutools includes
 #include "nudata/SimulationBase/MCTruth.h"
