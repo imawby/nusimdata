@@ -1,6 +1,6 @@
 # The parent line must be the first non-comment line in the file
 # This line defines the product name and version
-parent nudata  v1_17_01f
+parent nudata  v1_17_01p
 defaultqual     s23:e9
 
 # These optional lines define the installed directories where
@@ -18,15 +18,14 @@ bindir      fq_dir      bin
 # note that art -q nu: depends, via root, on geant4 and more
 # this means that we only need to list art, cry, and genie as a dependencies
 product         version
-artlite         v1_18_01f	s23
-
-cetbuildtools   v4_17_03        -        only_for_build
+art	        v2_00_00pre	s23
+cetbuildtools   v4_18_01        -        only_for_build
 end_product_list
 
 
 # -nq- here means there is no qualifier
 # a - here means the dependent product is not required by the parent and will not be setup
-qualifier            artlite       notes
+qualifier            art	       notes
 s23:e9:debug         nu:e9:debug    
 s23:e9:opt           nu:e9:opt      
 s23:e9:prof          nu:e9:prof     
