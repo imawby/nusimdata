@@ -26,7 +26,7 @@ cry             v1_7e
 ifdhc		v1_8_7
 libwda          v2_22_1
 
-cetbuildtools   v4_17_03        -        only_for_build
+cetbuildtools   v4_18_01        -        only_for_build
 end_product_list
 
 
