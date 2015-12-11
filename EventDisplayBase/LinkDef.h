@@ -1,3 +1,4 @@
+#ifndef __CINT__ // root 5
 
 #pragma link off all globals;
 #pragma link off all classes;
@@ -25,3 +26,4 @@
 #pragma link C++ class evdb::ScanWindow+;
 #pragma link C++ class evdb::ScanFrame-;
 
+#endif

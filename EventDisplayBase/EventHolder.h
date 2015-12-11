@@ -6,6 +6,7 @@
 ///
 #ifndef EVDB_EVENTHOLDER_H
 #define EVDB_EVENTHOLDER_H
+#ifndef __CINT__ // root 5
 
 #include "art/Framework/Principal/Event.h"
 
@@ -28,4 +29,5 @@ namespace evdb {
   };
 
 }
+#endif // __CINT__
 #endif // EVDB_EVENTHOLDER_H
