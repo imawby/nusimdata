@@ -37,9 +37,9 @@ qualifier            art             genie          cry         geant4    libwda
 s25:e9:debug         nu:e9:debug     e9:r6:debug    e9:debug    e9:debug  -nq-    e9:p2710:debug 
 s25:e9:opt           nu:e9:opt       e9:r6:opt      e9:opt      e9:opt    -nq-    e9:p2710:opt   
 s25:e9:prof          nu:e9:prof      e9:r6:prof     e9:prof     e9:prof   -nq-    e9:p2710:prof  
-s24:e9:debug         nu:e9:debug     e9:r6:debug    e9:debug    e9:debug  -nq-    e9:p2710:debug 
-s24:e9:opt           nu:e9:opt       e9:r6:opt      e9:opt      e9:opt    -nq-    e9:p2710:opt   
-s24:e9:prof          nu:e9:prof      e9:r6:prof     e9:prof     e9:prof   -nq-    e9:p2710:prof  
+s24:e9:debug         nu:e9:debug     e9:r5:debug    e9:debug    e9:debug  -nq-    e9:p2710:debug 
+s24:e9:opt           nu:e9:opt       e9:r5:opt      e9:opt      e9:opt    -nq-    e9:p2710:opt   
+s24:e9:prof          nu:e9:prof      e9:r5:prof     e9:prof     e9:prof   -nq-    e9:p2710:prof  
 s21:e9:debug         nu:e9:debug     e9:r5:debug    e9:debug    e9:debug  -nq-    e9:p2710:debug 
 s21:e9:opt           nu:e9:opt       e9:r5:opt      e9:opt      e9:opt    -nq-    e9:p2710:opt   
 s21:e9:prof          nu:e9:prof      e9:r5:prof     e9:prof     e9:prof   -nq-    e9:p2710:prof  
