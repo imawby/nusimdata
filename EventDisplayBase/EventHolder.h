@@ -7,10 +7,7 @@
 #ifndef EVDB_EVENTHOLDER_H
 #define EVDB_EVENTHOLDER_H
 
-// forward declaration to help rootcint
-namespace art {
-  class Event;
-}
+#include "art/Framework/Principal/Event.h"
 
 namespace evdb {
   
