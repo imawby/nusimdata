@@ -20,14 +20,8 @@
  <class name="simb::MCNeutrino"    ClassVersion="10"                  	     	   >
   <version ClassVersion="10" checksum="762249296"/>
  </class>
- <class name="simb::MCFlux"        ClassVersion="11"                  	     	   >
-  <version ClassVersion="11" checksum="244361690"/>
-  <version ClassVersion="10" checksum="2054318849"/>
- </class>
- <class name="simb::MCTruth"       ClassVersion="11"                  	     	   >
-  <version ClassVersion="11" checksum="2888350881"/>
-  <version ClassVersion="10" checksum="3274174269"/>
- </class>
+ <class name="simb::MCFlux"                                     	     	   />
+ <class name="simb::MCTruth"                                    	     	   />
  <class name="simb::GTruth"        ClassVersion="10"                         	   >
   <version ClassVersion="10" checksum="1491363396"/>
  </class>
