@@ -1,11 +1,11 @@
 set( SIMB_LIBS ${ART_FRAMEWORK_SERVICES_REGISTRY}
                ${ART_FRAMEWORK_CORE}
                ${ART_FRAMEWORK_IO_ROOT_ROOTINPUT_SOURCE}
-	       ${ART_PERSISTENCY_COMMON}
+	       ${CANVAS_PERSISTENCY_COMMON}
                ${ART_FRAMEWORK_IO_SOURCES}
                ${ART_FRAMEWORK_PRINCIPAL}
-               ${ART_PERSISTENCY_PROVENANCE}
-               ${ART_UTILITIES}
+               ${CANVAS_PERSISTENCY_PROVENANCE}
+               ${CANVAS_UTILITIES}
                ${FHICLCPP}
                ${CETLIB}
 	       ${ROOT_EG}

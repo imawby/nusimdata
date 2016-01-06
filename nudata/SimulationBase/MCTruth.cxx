@@ -9,7 +9,7 @@
 #include "nudata/SimulationBase/MCParticle.h"
 #include "nudata/SimulationBase/MCNeutrino.h"
 
-#include "art/Utilities/Exception.h"
+#include "canvas/Utilities/Exception.h"
 
 #include "TDatabasePDG.h"
 
