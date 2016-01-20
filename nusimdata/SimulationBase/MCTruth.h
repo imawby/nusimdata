@@ -9,7 +9,7 @@
 #define SIMB_MCTRUTH_H
 
 #include <vector>
-#include "nudata/SimulationBase/MCNeutrino.h"
+#include "nusimdata/SimulationBase/MCNeutrino.h"
 
 namespace simb {
 

@@ -25,7 +25,7 @@ set( SIMB_LIBS ${ART_FRAMEWORK_SERVICES_REGISTRY}
 	       ${ROOT_MATHCORE}
 	       ${ROOT_THREAD} )
 
-art_make( LIBRARY_NAME nudata_SimulationBase
+art_make( 
           LIB_LIBRARIES ${SIMB_LIBS} )
  
 install_headers()
