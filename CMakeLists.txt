@@ -58,7 +58,7 @@ include(CetRootCint)
 include_directories ( ${CMAKE_SOURCE_DIR} )
 
 # source
-add_subdirectory (nudata)
+add_subdirectory (nusimdata)
 
 # ups - table and config files
 add_subdirectory(ups)
