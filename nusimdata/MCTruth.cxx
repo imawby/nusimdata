@@ -5,9 +5,9 @@
 /// \version $Id: MCTruth.cxx,v 1.8 2012-10-15 20:36:27 brebel Exp $
 /// \author  jpaley@indiana.edu
 ////////////////////////////////////////////////////////////////////////
-#include "numsimdata/MCTruth.h"
-#include "numsimdata/MCParticle.h"
-#include "numsimdata/MCNeutrino.h"
+#include "nusimdata/MCTruth.h"
+#include "nusimdata/MCParticle.h"
+#include "nusimdata/MCNeutrino.h"
 
 #include "canvas/Utilities/Exception.h"
 

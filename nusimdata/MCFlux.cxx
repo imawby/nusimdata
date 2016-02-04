@@ -7,7 +7,7 @@
 /// \author  brebel@fnal.gov
 ////////////////////////////////////////////////////////////////////////
 
-#include "numsimdata/MCFlux.h"
+#include "nusimdata/MCFlux.h"
 #include <iostream>
 #include <iomanip>
 #include <cmath>

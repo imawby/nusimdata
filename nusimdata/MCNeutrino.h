@@ -8,7 +8,7 @@
 #ifndef SIMB_MCNEUTRINO_H
 #define SIMB_MCNEUTRINO_H
 
-#include "numsimdata/MCParticle.h"
+#include "nusimdata/MCParticle.h"
 
 namespace simb {
   

@@ -11,7 +11,7 @@
 #ifndef SIMB_MCPARTICLE_H
 #define SIMB_MCPARTICLE_H
 
-#include "numsimdata/MCTrajectory.h"
+#include "nusimdata/MCTrajectory.h"
 
 #include <set>
 #include <string>

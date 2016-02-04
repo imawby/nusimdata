@@ -5,8 +5,8 @@
 /// \version $Id: MCNeutrino.cxx,v 1.5 2012-10-15 20:36:27 brebel Exp $
 /// \author  jpaley@indiana.edu
 ////////////////////////////////////////////////////////////////////////
-#include "numsimdata/MCNeutrino.h"
-#include "numsimdata/MCParticle.h"
+#include "nusimdata/MCNeutrino.h"
+#include "nusimdata/MCParticle.h"
 #include "TVector3.h"
 #include <iostream>
 #include <climits>

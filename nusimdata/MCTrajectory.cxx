@@ -7,7 +7,7 @@
 
 #include "cetlib/exception.h"
 
-#include "nudata/SimulationBase/MCTrajectory.h"
+#include "nusimdata/MCTrajectory.h"
 
 #include <TLorentzVector.h>
 
