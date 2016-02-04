@@ -20,12 +20,12 @@
 #include "canvas/Persistency/Common/Assns.h" 
 
 // nutools includes
-#include "nusimdata/SimulationBase/MCTruth.h"
-#include "nusimdata/SimulationBase/MCTrajectory.h"
-#include "nusimdata/SimulationBase/MCParticle.h"
-#include "nusimdata/SimulationBase/MCNeutrino.h"
-#include "nusimdata/SimulationBase/MCFlux.h"
-#include "nusimdata/SimulationBase/GTruth.h"
+#include "numsimdata/MCTruth.h"
+#include "numsimdata/MCTrajectory.h"
+#include "numsimdata/MCParticle.h"
+#include "numsimdata/MCNeutrino.h"
+#include "numsimdata/MCFlux.h"
+#include "numsimdata/GTruth.h"
 #include <TLorentzVector.h>
 //
 // Only include objects that we would like to be able to put into the event.
