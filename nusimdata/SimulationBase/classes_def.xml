@@ -36,6 +36,9 @@
   <version ClassVersion="11" checksum="2026106799"/>
   <version ClassVersion="10" checksum="1491363396"/>
  </class>
+ <struct name="simb::MCGeneratorInfo" ClassVersion="10">
+  <version ClassVersion="10" checksum="180171425"/>
+ </struct>
 
  <enum  name="simb::_ev_origin"                                                    />
  <enum  name="simb::flux_code_"                                                    />
